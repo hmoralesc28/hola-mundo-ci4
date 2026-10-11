@@ -12,7 +12,7 @@ class Home extends BaseController
 
         $data = [
             'titulo' => '¡Hola Mundo!',
-            'mensaje' => 'Soy Hector. Esta pàgina fue renderizò con CodeIgniter 4.'
+            'mensaje' => 'Soy Hector. Esta pàgina fue renderizada con CodeIgniter 4.'
         ];
 
 
